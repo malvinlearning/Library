@@ -1,0 +1,67 @@
+td{
+    border: 1px solid black;
+}
+
+td {
+    padding: 0.5rem;
+}
+
+.addBooks {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: purple;
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+form.form-example {
+    display: table;
+}
+  
+div.form-example {
+    display: table-row;
+}
+  
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+.dialogueButton {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: purple;
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.removeButton {
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: red;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.toggleButton {
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-right: 0.1rem;
+}
